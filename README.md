@@ -11,3 +11,11 @@ My explorations into <a href="https://arxiv.org/abs/2210.07229">editing the know
   year    = {2022}
 }
 ```
+
+```bibtex
+@inproceedings{Burns2022DiscoveringLK,
+  title  = {Discovering Latent Knowledge in Language Models Without Supervision},
+  author = {Collin Burns and Hao-Tong Ye and Dan Klein and Jacob Steinhardt},
+  year   = {2022}
+}
+```
